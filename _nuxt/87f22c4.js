@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{486:function(e,t,n){"use strict";n.r(t);var l={name:"LayoutWProse"},o=n(6),component=Object(o.a)(l,(function(){var e=this,t=e.$createElement;return(e._self._c||t)("article",{staticClass:"prose lg:prose-lg xl:prose-xl max-w-none"},[e._t("default")],2)}),[],!1,null,"6a3d2caa",null);t.default=component.exports}}]);
